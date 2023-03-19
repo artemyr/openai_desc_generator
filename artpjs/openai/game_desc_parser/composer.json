@@ -1,0 +1,6 @@
+{
+    "require": {
+        "orhanerday/open-ai": "^3.4",
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
